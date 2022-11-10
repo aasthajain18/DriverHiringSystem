@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533724539428",
+    "project_id": "onemoretry-9ad9c",
+    "storage_bucket": "onemoretry-9ad9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533724539428:android:be60059edba88dcb8746b1",
+        "android_client_info": {
+          "package_name": "com.example.onemoretry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533724539428-tma9se1h8n9buedc48ru19mth9mqo00b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxkI3YplqrcCxw9VkPMzM90P5gN4r6ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533724539428-tma9se1h8n9buedc48ru19mth9mqo00b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
